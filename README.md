@@ -1,6 +1,4 @@
 # Front-End-Bootcamp-8oct
-
-
 Hi Everyone, Welcome to Front-End bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
 
 ## Schedule
