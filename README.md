@@ -62,7 +62,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week3| 1  |[Intro-To-CSS-Lesson]()|[Intro-To-CSS-Lab]()|[Intro-To-CSS-HW]()
 | Week3| 2  |[JCss-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
 | Week3| 3  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
-| Week3| 4  |[Mdia-Lesson]()|[Mdia-Lab]()|[Mdia-HW]()
+| Week3| 4  |[Media-Queries-Lesson]()|[Media-Queries-Lab]()|[Media-Queries-HW]()
 | Week3| 5  |[Bootstrap-Lesson]()|[Bootstrap-Lab]()|[Bootstrap-HW]()
 | Week4| 1  |[JavaScript-Lesson]()|[JavaScript-Lab]()|[JavaScript-HW]()
 | Week4| 2  |[JavaScript-Lesson]()|[JavaScript-Lab]()|[JavaScript-HW]()
