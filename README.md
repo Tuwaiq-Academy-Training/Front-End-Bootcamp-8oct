@@ -50,7 +50,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[Intro-To-World-Wide-Web-lab](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web-lab/blob/main/README.md)|[Intro-To-World-Wide-Web-hw](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)
-| Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[HTML-Lab]()|[HTML-HW]()
+| Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[HTML-Lab]()|[HTML-HW](https://github.com/fahadssgg/HWs/blob/main/HW1)
 | Week1| 3  |[Git&GitHub-Lesson](https://github.com/owisqari/Git-GitHub-Lesson/blob/main/README.md)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week1| 4  |[Git&GitHub-Lesson](https://github.com/owisqari/GitHub-Lesson/blob/main/README.md)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week1| 5  |[intro-to-UI&UX-Lesson]()|[intro-to-UI&UX-Lap]()|[intro-to-UI&UX-HW]()
