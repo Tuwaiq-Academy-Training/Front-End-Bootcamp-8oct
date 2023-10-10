@@ -50,8 +50,8 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[Intro-To-World-Wide-Web-lab](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web-lab/blob/main/README.md)|[Intro-To-World-Wide-Web-hw](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)
-| Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[HTML-Lab](https://stone-horn-a78.notion.site/Lab1-a8ea2003666747f3affde1ca4652e412)|[HTML-HW](https://stone-horn-a78.notion.site/HW1-0af8f37742184d9fb9bd210d00899f34?pvs=4)
-| Week1| 3  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Git-0c7db9b9c2ae4672971ea0bee5502cf0)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
+| Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[HTML-Lab](https://stone-horn-a78.notion.site/Lab1-a8ea2003666747f3affde1ca4652e412)|[HTML-HW]()
+| Week1| 3  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Git-0c7db9b9c2ae4672971ea0bee5502cf0)|[Git&GitHub-Lab](https://www.notion.so/git-html-Lab-0af8f37742184d9fb9bd210d00899f34)|[Git&GitHub-HW]()
 | Week1| 4  |[Git&GitHub-Lesson](https://github.com/owisqari/GitHub-Lesson/blob/main/README.md)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week1| 5  |[intro-to-UI&UX-Lesson]()|[intro-to-UI&UX-Lap]()|[intro-to-UI&UX-HW]()
 | Week2| 1  |[UX-Lesson]()|[UX-Lap]()|[UX-HW]()
