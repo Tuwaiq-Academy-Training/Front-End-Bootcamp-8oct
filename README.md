@@ -55,7 +55,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week1| 4  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Branches-7fd645417b57431bb05a6c93ed24c040?pvs=4)|[Git&GitHub-Lab]()|[Git&GitHub-HW](https://stone-horn-a78.notion.site/HW1-b89811b403bd411b8b8867f61a474b71?pvs=4)
 | Week1| 5  |[intro-to-UI&UX-Lesson](https://stone-horn-a78.notion.site/Intro-to-UI-UX-1487885eab424dd5b8373af8f35fdeb3?pvs=4)|[intro-to-UI&UX-Lap]()|[intro-to-UI&UX-HW]()
 | Week2| 1  |[UX-Lesson]()|[UX-Lap]()|[UX-HW](https://docs.google.com/document/d/1ShiQqHb4qnykDqn2EDe6-qPG38bgbAdhkALB7VvFE9s/edit?usp=sharing)
-| Week2| 2  |[UI-and-Figma-Lesson](https://github.com/Tuwaiq-Academy-Training/Figma-Lesson/blob/main/README.md)|[UI-and-Figma-Lab]()|[UI-and-Figma-HW]()
+| Week2| 2  |[UI-and-Figma-Lesson](https://github.com/Tuwaiq-Academy-Training/Figma-Lesson/blob/main/README.md)|[UI-and-Figma-Lab]()|[UI-and-Figma-HW](https://stone-horn-a78.notion.site/Figma-HW-a811b1313a4047388a8d1b07ba19de87)
 | Week2| 3  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab]()|[UI-and-Figma-HW]()
 | Week2| 4  |[Prototype-in-figma-Lesson]()|[Prototype-in-figma-Lab]()|[Prototype-in-figma-HW]()
 | Week2| 5  |[Intro-To-CSS-Lesson]()|[Intro-To-CSS-Lab]()|[Intro-To-CSS-HW]()
