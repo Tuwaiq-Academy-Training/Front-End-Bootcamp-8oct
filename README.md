@@ -58,7 +58,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 2  |[UI-and-Figma-Lesson](https://github.com/Tuwaiq-Academy-Training/Figma-Lesson/blob/main/README.md)|[UI-and-Figma-Lab]()|[UI-and-Figma-HW](https://stone-horn-a78.notion.site/Figma-HW-a811b1313a4047388a8d1b07ba19de87)
 | Week2| 3  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab]()|[UI-and-Figma-HW]()
 | Week2| 4  |[Prototype-in-figma-Lesson]()|[Prototype-in-figma-Lab]()|[Prototype-in-figma-HW]()
-| Week2| 5  |[Intro-To-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/CSS-Lesson/blob/main/README.md)|[Intro-To-CSS-Lab]()|[Intro-To-CSS-HW]()
+| Week2| 5  |[Intro-To-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/CSS-Lesson/blob/main/README.md)|[Intro-To-CSS-Lab](https://stone-horn-a78.notion.site/CSS-Lab-78639bfd9ef841e39c8293e4c49ca373)|[Intro-To-CSS-HW]()
 | Week3| 1  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
 | Week3| 2  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
 | Week3| 3  |[Media-Queries-Lesson]()|[Media-Queries-Lab]()|[Media-Queries-HW]()
