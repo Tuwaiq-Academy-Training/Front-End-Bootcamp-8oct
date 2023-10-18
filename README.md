@@ -57,7 +57,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 1  |[UX-Lesson]()|[UX-Lap]()|[UX-HW](https://docs.google.com/document/d/1ShiQqHb4qnykDqn2EDe6-qPG38bgbAdhkALB7VvFE9s/edit?usp=sharing)
 | Week2| 2  |[UI-and-Figma-Lesson](https://github.com/Tuwaiq-Academy-Training/Figma-Lesson/blob/main/README.md)|[UI-and-Figma-Lab]()|[UI-and-Figma-HW](https://stone-horn-a78.notion.site/Figma-HW-a811b1313a4047388a8d1b07ba19de87)
 | Week2| 3   |[Intro-To-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/CSS-Lesson/blob/main/README.md)|[Intro-To-CSS-Lab](https://stone-horn-a78.notion.site/CSS-Lab-78639bfd9ef841e39c8293e4c49ca373)|[Intro-To-CSS-HW](https://stone-horn-a78.notion.site/CSS-HW-fa1910ffc5064c61bad4c2e03e7390ed)
-| Week2| 4  |[Css]()|[Css]()|[Css]()
+| Week2| 4  |[Css]()|[Css](https://stone-horn-a78.notion.site/Css-Lab-026c9d6f5ede4e4391355bc0c910b416?pvs=4)|[Css]()
 | Week2| 5 |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
 | Week3| 1  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
 | Week3| 2  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
