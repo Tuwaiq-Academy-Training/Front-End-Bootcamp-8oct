@@ -61,7 +61,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 5 |[UX-Project-Lesson](https://stone-horn-a78.notion.site/UI-UX-Project-f0454952c94a47d784e60c5c3a1b7923?pvs=4)|[UX-Project-Team](https://stone-horn-a78.notion.site/UX-Team-PROJECT-f5207a29348f4e29a03b6da0b089e118?pvs=4)|[UX-Project](https://docs.google.com/document/d/1ShiQqHb4qnykDqn2EDe6-qPG38bgbAdhkALB7VvFE9s/edit?usp=sharing)
 | Week3| 1  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW](https://stone-horn-a78.notion.site/Flexbox-HW-7789fd31e5664135a1dac30b9b56c12e?pvs=4)
 | Week3| 2  |[Css-Grid-Lesson]()|[Css-Flexbox-Lab](https://stone-horn-a78.notion.site/Flex-box-Lab-378b08c6d1cf4095a1239d61b00a085e?pvs=4)|[Css-Grid-HW](https://stone-horn-a78.notion.site/Grid-HW-963d1bbbc85f4103acf9f11ff98172fd?pvs=4)
-| Week3| 3  |[Media-Queries-Lesson]()|[Media-Queries-Lab]()|[Media-Queries-HW]()
+| Week3| 3  |[Grid-Lesson]()|[Grid-Lab](https://stone-horn-a78.notion.site/GRID-Lab-db259a31dbb9483b82d144b2a1770524)|[Media-Queries-HW]()
 | Week3| 4  |[Bootstrap-Lesson]()|[Bootstrap-Lab]()|[Bootstrap-HW]()
 | Week3| 5  |[css-Project-Lesson]()|[css-Project-Lab]()|[css-Project-HW]()
 | Week4| 1  |[JavaScript-Lesson]()|[JavaScript-Lab]()|[JavaScript-HW]()
