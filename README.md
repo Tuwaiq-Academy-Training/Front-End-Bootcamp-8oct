@@ -69,7 +69,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week4| 3  |[JavaScript-Function-Lesson](https://github.com/Tuwaiq-Academy-Training/Function-Lesson/blob/main/README.md)|[JavaScript-Objects-Lab](https://stone-horn-a78.notion.site/JS-Lab-Array-Function-7abc6c4f7b7e4fe49476ee49a8330abb?pvs=4)|[JavaScript-NO-HW]()
 | Week4| 4  |[JavaScript-20Q-Lesson]()|[JavaScript-20Q-Lab]()|[JavaScript-20Q-HW]()
 | Week4| 5  |[JavaScript]()|[JavaScript]()|[JavaScript-ProjectHW](https://stone-horn-a78.notion.site/W4-D5-ProjectHW-eedd738d359f4f8aa73f0bd42fcb6e41?pvs=4)
-| Week5| 1  |[JavaScript-DOM-Lesson](https://github.com/Tuwaiq-Academy-Training/Dom-Lesson/blob/main/README.md)|[JavaScript-DOM-Lab]()|[JavaScript-DOM-HW]()
+| Week5| 1  |[JavaScript-DOM-Lesson](https://github.com/Tuwaiq-Academy-Training/Dom-Lesson/blob/main/README.md)|[JavaScript-DOM-Lab](https://stone-horn-a78.notion.site/W5-D1-Lab-d451936b58d747ae819c65a3427aad8f)|[JavaScript-DOM-HW]()
 | Week5| 2  |[JavaScript-DOM-Lesson]()|[JavaScript-DOM-Lab]()|[JavaScript-DOM-HW]()
 | Week5| 3  |[JavaScript-DOM-Lesson]()|[JavaScript-DOM-Lab]()|[JavaScript-DOM-HW]()
 | Week5| 4  |[JavaScript-DOM-Lesson]()|[JavaScript-DOM-Lab]()|[JavaScript-DOM-HW]()
