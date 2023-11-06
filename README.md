@@ -70,7 +70,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week4| 4  |[JavaScript-20Q-Lesson]()|[JavaScript-20Q-Lab]()|[JavaScript-20Q-HW]()
 | Week4| 5  |[JavaScript]()|[JavaScript]()|[JavaScript-ProjectHW](https://stone-horn-a78.notion.site/W4-D5-ProjectHW-eedd738d359f4f8aa73f0bd42fcb6e41?pvs=4)
 | Week5| 1  |[JavaScript-DOM-Lesson](https://github.com/Tuwaiq-Academy-Training/Dom-Lesson/blob/main/README.md)|[JavaScript-DOM-Lab](https://stone-horn-a78.notion.site/W5-D1-Lab-d451936b58d747ae819c65a3427aad8f)|[JavaScript-DOM-HW](https://stone-horn-a78.notion.site/W5-D1-HW-9b7200b08ae14e59b95b29d7fa3fc285?pvs=4)
-| Week5| 2  |[JavaScript-DOM-Lesson]()|[Lab1](https://stone-horn-a78.notion.site/W5-D2-Lab1-4c978a25602141a3a6f28a15cfa1e879)-[Lab2](https://stone-horn-a78.notion.site/W5-D2-Lab2-24d9805c83a340e498d4f82df297655e)-[Lab3](https://stone-horn-a78.notion.site/W5-D2-Lab3-8c21ac9d04164edc8e47becd649b7964?pvs=4)|[JavaScript-DOM-HW]()
+| Week5| 2  |[BOM-DOM-Lesson](https://stone-horn-a78.notion.site/BOM-DOM-c35cda25cc71437c9152a51c0d6817ae?pvs=4)|[Lab1](https://stone-horn-a78.notion.site/W5-D2-Lab1-4c978a25602141a3a6f28a15cfa1e879)-[Lab2](https://stone-horn-a78.notion.site/W5-D2-Lab2-24d9805c83a340e498d4f82df297655e)-[Lab3](https://stone-horn-a78.notion.site/W5-D2-Lab3-8c21ac9d04164edc8e47becd649b7964?pvs=4)|[JavaScript-DOM-HW]()
 | Week5| 3  |[JavaScript-DOM-Lesson]()|[JavaScript-DOM-Lab]()|[JavaScript-DOM-HW]()
 | Week5| 4  |[JavaScript-DOM-Lesson]()|[JavaScript-DOM-Lab]()|[JavaScript-DOM-HW]()
 | Week5| 5  |[JavaScript-DOM-Lesson]()|[JavaScript-DOM-Lab]()|[JavaScript-DOM-HW]()
