@@ -78,7 +78,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week6| 2  |[JavaScript-API-Lesson]()|[JavaScript-API-Lab](https://stone-horn-a78.notion.site/W6-D2-API-Lab-2d5a9b12991f44c8b42e745c8e15bfed?pvs=4)|[JavaScript-API-HW](https://stone-horn-a78.notion.site/W6-D2-API-HW-87734e750b894921b7dd378ad7a4c6aa?pvs=4)
 | Week6| 3  |[JavaScript-API-Lesson]()|[JavaScript-API-Lab](https://stone-horn-a78.notion.site/W6-D3-API-Lab-70b4f104e2a541689c9aab9b6eb2a76d?pvs=4)|[JavaScript-API-HW]()
 | Week6| 4  |[JavaScript-API-Lesson]()|[JavaScript-Login](https://github.com/fahadssgg/Loginlab)|[JavaScript-HW]()
-| Week6| 5  |[JavaScript-Project]()|[JavaScript-Project]()|[JavaScript-Project]()
+| Week6| 5  |[JavaScript-API-Project](https://stone-horn-a78.notion.site/WeekEnd-Project-474bbde85efd425388d28ad8b1a42354?pvs=4)|[JavaScript-API-Project](https://stone-horn-a78.notion.site/WeekEnd-Project-474bbde85efd425388d28ad8b1a42354?pvs=4)|[JavaScript-API-Project](https://stone-horn-a78.notion.site/WeekEnd-Project-474bbde85efd425388d28ad8b1a42354?pvs=4)
 | Week7| 1  |[Intro-To-React-Lesson]()|[Intro-To-React-Lap]()|[Intro-To-React-HW]()
 | Week7| 2  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week7| 3  |[React-Lesson]()|[React-Lab]()|[React-HW]()
