@@ -80,7 +80,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week6| 4  |[JavaScript-API-Lesson]()|[JavaScript-Login](https://github.com/fahadssgg/Loginlab)|[JavaScript-HW]()
 | Week6| 5  |[JavaScript-API-Project](https://stone-horn-a78.notion.site/WeekEnd-Project-474bbde85efd425388d28ad8b1a42354?pvs=4)|[JavaScript-API-Project](https://stone-horn-a78.notion.site/WeekEnd-Project-474bbde85efd425388d28ad8b1a42354?pvs=4)|[JavaScript-API-Project](https://stone-horn-a78.notion.site/WeekEnd-Project-474bbde85efd425388d28ad8b1a42354?pvs=4)
 | Week7| 1  |[TypeScript-Lesson](https://github.com/Tuwaiq-Academy-Training/TypeScript-Lesson/blob/main/README.md)|[TypeScript-Lap]()|[TypeScript-HW]()
-| Week7| 2  |[Intro-To-React-Lesson]()|[React-Lab]()|[React-HW]()
+| Week7| 2  |[Intro-To-React-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
 | Week7| 3  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week7| 4  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week7| 5  |[React-Lesson]()|[React-Lab]()|[React-HW]()
