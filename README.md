@@ -82,7 +82,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week7| 1  |[TypeScript-Lesson](https://github.com/Tuwaiq-Academy-Training/TypeScript-Lesson/blob/main/README.md)|[TypeScript-Lap]()|[TypeScript-HW]()
 | Week7| 2  |[JavaScript Exam](https://www.dropbox.com/scl/fi/nduwhpcxfe80sogea9tvn/JavaScript-Exam-1.papert?rlkey=zqdjpip3oejs3ewqma48k00hx&dl=0)|[JavaScript Exam]()|[JavaScript Exam]()
 | Week7| 3  |[Intro-To-React-Lab](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-Lab]()
-| Week7| 4  |[React-Props-Lesson](https://stone-horn-a78.notion.site/Props-js-Lesson-6c690978fffa4523af972bb483a19c1e?pvs=4)|[React-Props-Lab]()|[React-Props-HW]()
+| Week7| 4  |[React-Props-Lesson](https://stone-horn-a78.notion.site/Props-js-Lesson-6c690978fffa4523af972bb483a19c1e?pvs=4)|[React-Props-Lab](https://stone-horn-a78.notion.site/React-Props-Lab-6fa6be456b57439fa4d4cec704384341?pvs=4)|[React-Props-HW]()
 | Week7| 5  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week8| 1  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week8| 2  |[React-Lesson]()|[React-Lab]()|[React-HW]()
