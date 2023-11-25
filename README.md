@@ -84,7 +84,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week7| 3  |[Intro-To-React-Lab](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-Lab]()
 | Week7| 4  |[React-Props-Lesson](https://stone-horn-a78.notion.site/Props-js-Lesson-6c690978fffa4523af972bb483a19c1e?pvs=4)|[React-Props-Lab](https://stone-horn-a78.notion.site/React-Props-Lab-6fa6be456b57439fa4d4cec704384341?pvs=4)|[React-Props-HW]()
 | Week7| 5  |[React-Lesson]()|[React-Lab]()|[React-HW]()
-| Week8| 1  |[React-Lesson]()|[React-Lab]()|[React-HW]()
+| Week8| 1  |[React-Tailwind-Lesson](https://stone-horn-a78.notion.site/Tailwindcss-React-ec7b8b767aa4413196ad3ff370590594)|[React-Tailwind-Lab]()|[React-Tailwind-HW]()
 | Week8| 2  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week8| 3  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week8| 4  |[React-Lesson]()|[React-Lab]()|[React-HW]()
