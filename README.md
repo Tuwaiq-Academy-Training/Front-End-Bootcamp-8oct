@@ -90,7 +90,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week8| 4  |[React-useState-Lesson]()|[Lab1](https://stone-horn-a78.notion.site/W8-D3-Lab-c73b57f21b47454897b38b4c9c473aa3?pvs=4)-[Lab2](https://stone-horn-a78.notion.site/W8-D4-Lab2-8d7129985fee430b94d0584c9461ce0b?pvs=4)|[React-useState-HW](https://stone-horn-a78.notion.site/W8-D4-HW-e70e10f7e9654174a202d2cf1c14d8c8?pvs=4)
 | Week8| 5  |[React-Project-Lesson](https://stone-horn-a78.notion.site/React-Project1-2772e5787c2f4a1eb40e3bea6cf28951)|[React-Project-Lab](https://stone-horn-a78.notion.site/React-Project1-2772e5787c2f4a1eb40e3bea6cf28951)|[React-Project-HW](https://stone-horn-a78.notion.site/React-Project1-2772e5787c2f4a1eb40e3bea6cf28951)
 | Week9| 1  |[React-Api-Lesson]()|[React-Api-Lab](https://stone-horn-a78.notion.site/W9-D1-Lab-7dc4d78105c5446eb5af2833eaf7c9d3?pvs=4)|[React-Api-HW](https://stone-horn-a78.notion.site/W9-D1-HW-a5ce4be49e1e4b6d89c54d58b43a17b5?pvs=4)
-| Week9| 2  |[React-Lesson]()|[React-Lab]()|[React-HW]()
+| Week9| 2  |[React-Lesson]()|[React-Lab](https://lying-move-262.notion.site/W9-D2-Lab-95fd1673dbf34ca0a45fe667be2c74ed?pvs=4)|[React-HW]()
 | Week9| 3  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week9| 4  |[React-Lesson]()|[React-Lab]()|[React-HW]()
 | Week9| 5  |[React-Lesson]()|[React-Lab]()|[React-HW]()
